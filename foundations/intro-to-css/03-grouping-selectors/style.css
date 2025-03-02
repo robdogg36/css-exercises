@@ -1,0 +1,13 @@
+.button {
+    font-size: 90px;
+}
+
+.click {
+    color: #ffffff;
+    font-weight: 600;
+    background-color: black;
+}
+
+.no {
+    background-color: yellow;
+}
