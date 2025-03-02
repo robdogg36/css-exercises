@@ -1,0 +1,23 @@
+.odd {
+    background-color: palevioletred;
+    font-family: 'sans-serif', 'DejaVu Sans', sans-serif;
+    font-size: 37px;
+}
+
+.bigger {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+
+#four {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bolder;
+  font-size: 90px;
+}
+
+#two {
+    color: blue;
+    font-size: 70px;
+    font-weight: 600;
+}
